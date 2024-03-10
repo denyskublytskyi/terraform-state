@@ -1,0 +1,14 @@
+{
+  "name": "terraform-state",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:denyskublytskyi/terraform-state.git",
+  "author": "Denys Kublytskyi <deniskublitskiy@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^9.0.11"
+  },
+  "scripts": {
+    "prepare": "husky"
+  }
+}
